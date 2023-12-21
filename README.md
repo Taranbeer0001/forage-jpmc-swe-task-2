@@ -1,6 +1,7 @@
 # JPMC Task 2
 
-1. Set up my system by downloading the necessary files, tools, and dependencies.
-2. Modify the typescript files in the project repo to make the web application behave in the expected manner
-3. Generate a patch file of the changes.
+1. Set up your local dev environment by downloading the necessary files, tools, and dependencies.
+2. Fixed the broken typescript files in the repository to make the web application output correctly
+3. Generated a patch file of the changes.
+
 
